@@ -1,0 +1,17 @@
+Compressor Summary
+
+Equip. No.                        15
+
+Name                           C-105
+Pressure out  psia           65.0000
+Type of compressor                 1  
+Efficiency                    0.7500
+Actual power  hp             16.3300
+Cp/Cv                         1.1121
+Theoretical power  hp        12.2475
+Ideal Cp/Cv                   1.0912
+Calc pres. out  psia         65.0000
+Calc head  ft             11346.5820
+Calc. mass flow  lb/h           2217
+
+

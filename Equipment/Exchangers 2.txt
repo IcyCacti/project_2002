@@ -1,0 +1,20 @@
+Heat Exchanger Summary
+
+Equip. No.                        14            7
+
+Name                           E-440        E-450
+1st Stream T Out  F                      100.0000
+2nd Stream T Out  F                      120.0000
+Min Delta Temp  F            20.0000             
+U  Btu/hr-ft2-F              40.0000      40.0000
+Calc Ht Duty  MMBtu/h         1.4439       2.4960
+LMTD (End points)  F         52.9285      59.9096
+LMTD Corr Factor              1.0000       1.0000
+Utility Option:                    0            1  
+Calc U  Btu/hr-ft2-F         40.0000      40.0000
+Calc Area  ft2              682.0048    1041.5679
+1st Stream Pout  psia        35.0000      20.0000
+2nd Stream Pout  psia        20.0000      65.0000
+P1 out specifed  psia        35.0000      20.0000
+P2 out specifed  psia        20.0000      65.0000
+

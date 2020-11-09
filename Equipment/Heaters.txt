@@ -1,0 +1,13 @@
+Fired Heater Summary
+
+Equip. No.                        16
+
+Name                           H-145
+Pressure Drop  psi            3.0000
+Temperature Out  F          680.0000
+Fuel Heating Value         7000.0000
+Heat Absorbed  MMBtu/h        5.2239
+Fuel Usage(SCF)             995.0358
+
+
+

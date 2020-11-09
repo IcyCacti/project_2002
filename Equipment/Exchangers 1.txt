@@ -1,0 +1,21 @@
+Heat Exchanger Summary
+
+Equip. No.                        10           19           17           13
+
+Name                           E-130        E-135        E-430        E-420
+1st Stream dp  psi            2.0000       3.0000       3.0000       2.0000
+2nd Stream dp  psi            3.0000       3.0000                          
+2nd Stream T Out  F         670.0000                                       
+2nd Stream VF Out                                                    1.0000
+Min Delta Temp  F                         20.0000                          
+U  Btu/hr-ft2-F              40.0000      40.0000      40.0000      40.0000
+Calc Ht Duty  MMBtu/h         6.2003       1.9525       1.4974       0.5110
+LMTD (End points)  F         96.0804      68.4418     166.3063     195.6311
+LMTD Corr Factor              1.0000       1.0000       1.0000       1.0000
+Calc U  Btu/hr-ft2-F         40.0000      40.0000      40.0000      40.0000
+Calc Area  ft2             1613.3020     713.1898     225.1024      65.3011
+1st Stream Pout  psia        38.0000      35.0000      20.0000      23.0000
+2nd Stream Pout  psia       364.0000     370.0000      35.0000      30.0000
+T1out - T2out  F                                       20.0000             
+P1 out specifed  psia        38.0000      35.0000      20.0000      23.0000
+P2 out specifed  psia       364.0000     370.0000      35.0000      30.0000
