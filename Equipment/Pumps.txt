@@ -1,0 +1,16 @@
+Pump Summary
+
+Equip. No.                         1           18
+
+Name                           P-125        E-460
+Output pressure  psia       373.0000      65.0000
+Efficiency                    0.7500       0.7500
+Calculated power  hp         11.6365       2.0757
+Calculated Pout  psia       373.0000      65.0000
+Head  ft                    875.8138     122.3544
+Vol. flow rate  ft3/hr      389.3476     475.3662
+Mass flow rate  lb/h      19716.9141   25175.8223
+
+
+
+

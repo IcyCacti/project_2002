@@ -1,0 +1,22 @@
+Kinetic Reactor Summary
+
+Equip. No.                         8
+
+Name                           R-150
+Reactor type                       2  
+Reaction phase                     1  
+Thermal mode                       1  
+Tout  F                     750.0000
+Q  MMBtu/h                   -8.3766
+Reactor volume  ft3         490.2037
+Specify calc. mode                 1  
+Conversion                    0.9000
+Key                                3  
+No. of Reactions                   2  
+Molar Flow Unit                    1  
+Activ. E/H of Rxn Unit             4  
+Volume Unit                        1  
+Time Unit                          2  
+Overall IG Ht of Rxn        -10.0533
+ (MMBtu/h)
+Mass unit                          1  

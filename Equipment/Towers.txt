@@ -1,0 +1,32 @@
+TOWR Rigorous Distillation Summary
+
+Equip. No.                         2            3            4
+
+Name                          CL-200       CL-300       CL-400
+No. of stages                      9           25           25  
+1st feed stage                     5           10           19  
+Top pressure  psia           35.0000      30.0000      25.0000
+Condenser mode                    12           12           12  
+Condenser spec.               0.9900       0.0005  1.0000e-006
+Cond comp i                        1            4            5  
+Cond comp j                        2            0            0  
+Reboiler mode                     12           12           12  
+Reboiler spec.                0.0100       0.0005  1.0000e-004
+Reboiler comp i                    2            3            4  
+Initial flag                       1            6            6  
+Calc cond duty               -3.8344      -1.3963     -37.3626
+ (MMBtu/h)
+Calc rebr duty                0.3584       1.9955      37.2127
+ (MMBtu/h)
+Est. Dist. rate             142.5974      31.9820     209.5206
+ (lbmol/h)
+Est. Reflux rate            122.6762       0.3974     215.7392
+ (lbmol/h)
+Est. T top  F                 9.5748     151.8338     345.3773
+Est. T bottom  F            353.9663     364.1557     452.4798
+Est. T 2  F                  10.3394     201.8186     345.5631
+Calc Reflux ratio             2.4261       1.7324      10.6254
+Calc Reflux mole            336.7649      55.4224    2226.2385
+ (lbmol/h)
+Calc Reflux mass  lb/h    14789.3574    3840.6357  267502.0000
+Optimization flag                  1            1            1  

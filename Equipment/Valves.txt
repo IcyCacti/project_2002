@@ -1,0 +1,6 @@
+Valve Summary
+
+Equip. No.                         9           11            5            6
+
+Name                           U-160        U-110        U-220        U-320
+Pressure out  psia           40.0000     367.0000      30.0000      25.0000
